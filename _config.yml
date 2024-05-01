@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EE595 Next Generation Wireless Networks 
-tagline: EE595 Next Generation Wireless Networks
+title: Next Generation Wireless Networks 
+tagline: EEP569 / EE595
 description: Dive into the dynamic world of wireless communication with our cutting-edge course tailored for future engineers and researchers.
 author: Hao Yin
 url: 'https://mauriyin.github.io' # the base hostname & protocol for your site, e.g. http://example.com
